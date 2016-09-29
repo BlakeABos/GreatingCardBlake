@@ -89,6 +89,7 @@ namespace GreatingCardBlake
             fg.DrawString(" symbol is (Unicode ♈), representing a ram's horns.", drawFont, drawBrush, 5, 250);
             SoundPlayer player = new SoundPlayer(Properties.Resources.Star);
             player.Play();
+            //
 
 
         }
